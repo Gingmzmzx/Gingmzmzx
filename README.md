@@ -8,9 +8,9 @@ description: 框架文档
 
 猪比搜题由Gingmzmzx使用AutoJsPro8开发。集成了esayedge、drawable等。开发者可以方便地使用猪比搜题开发出自己的应用。
 
-## Want to jump right in?
+## 开发前准备
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+你需要有的
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
