@@ -10,7 +10,7 @@ description: 框架文档
 
 ## 开发前准备
 
-你需要有的
+你需要有的开发基础
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
