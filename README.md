@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Gingmzmzx/Gingmzmzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Gingmzmzx. A 'xxs' of coding.
+=======================================
+## You can visit my website on [xzy's website](https://xzy.center)
+> I also have other websites, like:
+- [autoStudyPro](https://3141314.xyz)
+- [ALE 2.0 The last Auora](https://alemc.org)
 
-Here are some ideas to get you started:
+### I developed 'autoStudyPro' and 'xzy's website' by myself.
+> I have learned php, html, css, js, python, c/cpp, lua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Telegram: @gingmzmzx
+- Twitter: @gingmzmzx
+- Telephone: +1(267)6521548
+- emial: gingmzmzx@gmail.com
+- QQ: 2417481092
