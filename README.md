@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Gingmzmzx. A 'xxs' of coding.
-=======================================
+
 ## You can visit my website on [xzy's website](https://xzy.center)
 > I also have other websites, like:
 - [autoStudyPro](https://3141314.xyz)
