@@ -8,8 +8,11 @@
 - [autoStudyPro](https://3141314.xyz)
 - [ALE 2.0 The last Auora](https://alemc.org)
 
-### I developed 'autoStudyPro' and 'xzy's website' by myself.
-> I have learned php, html, css, js, python, c/cpp, lua.
+## Project I created
+- [auto-xxqg](https://github.com/auto-xxqg)
+- [PigBotFramework - Plugins](https://github.com/PigBotFrameworkPlugins)
+
+### I have learned php, html, css, js, python, c/cpp, lua.
 
 ## My state
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gingmzmzx)](https://github.com/anuraghazra/github-readme-stats)
