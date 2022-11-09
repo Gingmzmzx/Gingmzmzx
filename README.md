@@ -1,6 +1,5 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋, I'm Gingmzmzx;Enjoy coding;Minecraft Player~)
 
-### I'm Gingmzmzx. A 'xxs' of coding.
 ![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Student-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=Xu13515380920&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Gingmzmzx)
 
 ## You can visit my website on [xzy's website](https://xzy.center)  
@@ -12,17 +11,39 @@
 - [auto-xxqg](https://github.com/auto-xxqg)
 - [PigBotFramework - Plugins](https://github.com/PigBotFrameworkPlugins)
 
-### I have learned php, html, css, js, python, c/cpp, lua.
-
 ## My state
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gingmzmzx)](https://github.com/anuraghazra/github-readme-stats)
+#### Languages
+
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Gingmzmzx&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="golang" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- languages:end -->
 
 ## Contact
 - Telegram: @gingmzmzx
 - Twitter: @gingmzmzx
-- Telephone: +1(267)6521548
+- Telephone: +1(267)652-1548
 - emial: gingmzmzx@gmail.com
 - QQ: 2417481092
-
-## And one more thing
-> I'm not good at English!
