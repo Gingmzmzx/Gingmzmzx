@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋,_I'm_Gingmzmzx;Enjoy_Coding;Minecraft_Player~)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋,%20I'm%20Gingmzmzx;Enjoy%20Coding;Minecraft%20Player~)
 
 ![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Student-pink) ![](https://img.shields.io/static/v1?label=QQ&message=2417481092&color=7BB32E&logo=qq) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Gingmzmzx)
 
