@@ -2,14 +2,14 @@
 
 ![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Student-pink) ![](https://img.shields.io/static/v1?label=QQ&message=2417481092&color=7BB32E&logo=qq) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Gingmzmzx)
 
-## You can visit my website on [xzy's website](https://xzy.center)  
+## You can visit my website on [xzy's website](https://xzynb.top)  
 > I also have other websites, like:
-- [autoStudyPro](https://3141314.xyz)
-- [ALE 2.0 The last Auora](https://alemc.org)
+- [autoStudyPro](https://3141314.xyz) _Died._
+- [ALE 2.0 The last Auora](https://alemc.org) _Died._
 
 ## Project I created
 - [auto-xxqg](https://github.com/auto-xxqg)
-- [PigBotFramework - Plugins](https://github.com/PigBotFrameworkPlugins)
+- [PigBotFramework](https://github.com/PigBotFramework)
 
 ## My state
 #### Languages
