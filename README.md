@@ -6,10 +6,17 @@
 > I also have other websites, like:
 - [autoStudyPro](https://3141314.xyz) _Died._
 - [ALE 2.0 The last Auora](https://alemc.org) _Died._
+- [AKIOI Online Judge](https://akioi.us.kg)
+- [BugJump MC Server](https://bugjump.us.kg)
+- [RealAmongUS](https://rau.xzynb.top)
+- [xCaptcha](https://captcha.xzynb.top)
+- and more on my website
 
 ## Project I created
 - [auto-xxqg](https://github.com/auto-xxqg)
 - [PigBotFramework](https://github.com/PigBotFramework)
+- [AKIOIOJ](https://github.com/Gingmzmzx/AKIOIOJ)
+- and more on my website (such as XWindow, FlyWars...)
 
 ## My state
 #### Languages
