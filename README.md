@@ -50,8 +50,7 @@
 <!-- languages:end -->
 
 ## Contact
-- Telegram: @gingmzmzx
-- Twitter: @gingmzmzx
-- Telephone: +1(267)652-1548
-- EMail: gingmzmzx@gmail.com
+- EMail: xzystudio@qq.com
 - QQ: 2417481092
+
+**P.S. My Google Account was banned by Google in July 2026. So all accounts related to Gmail or Google are no logger belongs to me, such as YouTube, Twitter and so on. 🤯**
